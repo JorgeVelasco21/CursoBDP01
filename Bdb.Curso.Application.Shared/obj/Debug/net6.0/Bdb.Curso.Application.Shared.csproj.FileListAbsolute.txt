@@ -1,0 +1,59 @@
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.AssemblyReference.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.deps.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfoInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.AssemblyInfo.cs
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\refint\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.Application.Shared\obj\Debug\net6.0\ref\Bdb.Curso.Application.Shared.dll

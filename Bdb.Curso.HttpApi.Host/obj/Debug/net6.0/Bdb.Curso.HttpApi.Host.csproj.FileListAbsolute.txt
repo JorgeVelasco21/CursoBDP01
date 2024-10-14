@@ -1,0 +1,592 @@
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.Development.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.exe
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.deps.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.runtimeconfig.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AutoMapper.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Humanizer.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\jose-jwt.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Namotion.Reflection.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Annotations.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.NewtonsoftJson.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Annotations.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.AspNetCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\YamlDotNet.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.build.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.development.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets\msbuild.Bdb.Curso.HttpApi.Host.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets\msbuild.build.Bdb.Curso.HttpApi.Host.props
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bdb.Curso.HttpApi.Host.props
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bdb.Curso.HttpApi.Host.props
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\scopedcss\bundle\Bdb.Curso.HttpApi.Host.styles.css
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curs.35530AD3.Up2Date
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\refint\Bdb.Curso.HttpApi.Host.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\ref\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.Development.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.exe
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.deps.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.runtimeconfig.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AutoMapper.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Humanizer.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\jose-jwt.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Annotations.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.NewtonsoftJson.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\YamlDotNet.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfo.cs
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.build.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.development.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\scopedcss\bundle\Bdb.Curso.HttpApi.Host.styles.css
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CopyComplete
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\refint\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.genruntimeconfig.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\ref\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MailKit.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MimeKit.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.Development.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.exe
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.deps.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.runtimeconfig.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AutoMapper.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Humanizer.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\jose-jwt.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MailKit.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MimeKit.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Annotations.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.NewtonsoftJson.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\YamlDotNet.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.AssemblyReference.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfoInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfo.cs
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.build.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.development.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\scopedcss\bundle\Bdb.Curso.HttpApi.Host.styles.css
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CopyComplete
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\refint\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.genruntimeconfig.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\ref\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Core.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Identity.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.ClientModel.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.Development.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.exe
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.deps.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.runtimeconfig.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AutoMapper.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Core.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Identity.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Humanizer.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\jose-jwt.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MailKit.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MimeKit.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Annotations.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.NewtonsoftJson.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.ClientModel.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\YamlDotNet.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfo.cs
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.build.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.development.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\scopedcss\bundle\Bdb.Curso.HttpApi.Host.styles.css
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CopyComplete
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\refint\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.genruntimeconfig.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\ref\Bdb.Curso.HttpApi.Host.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.ApplicationInsights.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\appsettings.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.exe
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.deps.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.runtimeconfig.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AspNetCoreRateLimit.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\AutoMapper.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Core.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Identity.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Azure.Security.KeyVault.Secrets.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\jose-jwt.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MailKit.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.ApplicationInsights.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.DependencyCollector.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.EventCounterCollector.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.WindowsServer.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\MimeKit.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Namotion.Reflection.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Annotations.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.NewtonsoftJson.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NJsonSchema.Yaml.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Annotations.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.AspNetCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Core.Yaml.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\NSwag.Generation.AspNetCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.AspNetCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.ApplicationInsights.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Serilog.Sinks.File.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.ClientModel.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\YamlDotNet.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Application.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Infraestructure.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfoInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.AssemblyInfo.cs
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\scopedcss\bundle\Bdb.Curso.HttpApi.Host.styles.css
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.csproj.CopyComplete
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\refint\Bdb.Curso.HttpApi.Host.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\Bdb.Curso.HttpApi.Host.genruntimeconfig.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.HttpApi.Host\obj\Debug\net6.0\ref\Bdb.Curso.HttpApi.Host.dll

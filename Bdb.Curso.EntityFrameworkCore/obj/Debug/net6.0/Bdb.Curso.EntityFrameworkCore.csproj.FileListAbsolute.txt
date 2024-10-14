@@ -1,0 +1,105 @@
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curs.0DF17D57.Up2Date
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+C:\PrysDbustos\cursos\bp02\Dia06\Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CopyComplete
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+D:\Curso ASP\Dia 6\Douglas\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CopyComplete
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+D:\Curso ASP\Día 8\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CopyComplete
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+D:\Curso ASP\Dia 9\Bdp.Curso\Bdp.Curso\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.deps.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.runtimeconfig.json
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Application.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.Shared.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\bin\Debug\net6.0\Bdb.Curso.Core.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfoInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.AssemblyInfo.cs
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.csproj.CopyComplete
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\refint\Bdb.Curso.EntityFrameworkCore.dll
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.pdb
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\Bdb.Curso.EntityFrameworkCore.genruntimeconfig.cache
+D:\Documents\GitHub\CursoBDP01\Bdb.Curso.EntityFrameworkCore\obj\Debug\net6.0\ref\Bdb.Curso.EntityFrameworkCore.dll
